@@ -1,0 +1,62 @@
+.conatiner {
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.painel {
+	width: 70%;
+	background-color: rgb(65, 65, 85);
+	border-radius: 5px;
+	margin: 2rem 0;
+	padding: 2rem;
+}
+
+h1 {
+	color: #f5f3f3;
+	margin: 1rem 1rem;
+}
+
+.produto {
+	background-color: #f5f3f3;
+	display: flex;
+	padding: 0.5rem;
+	margin: 1rem;
+	border-radius: 5px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.produto p {
+	color: #333;
+}
+
+.icons {
+	display: flex;
+	gap: 1rem;
+}
+.icons img {
+	width: 25px;
+	gap: 1rem;
+}
+
+.icons a:hover {
+	background-color: #cbc5c5;
+	border-radius: 5px;
+}
+
+.button {
+	margin-left: 1rem;
+	margin-top: 2rem;
+}
+.button a {
+	padding: 0.3rem;
+	background-color: rgb(110, 110, 151);
+	border-radius: 5px;
+	color: #f5f3f3;
+}
+
+.button a:hover {
+	background-color: rgb(92, 92, 120);
+}

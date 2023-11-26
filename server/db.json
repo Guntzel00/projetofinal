@@ -1,0 +1,82 @@
+{
+  "produtos": [
+    {
+      "nome": "Camisa polo",
+      "preco": 80,
+      "marca": "Nike",
+      "id": 1
+    },
+    {
+      "nome": "Tênis de corrida",
+      "preco": 200,
+      "marca": "Adidas",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Meia",
+      "marca": "Oxer",
+      "preco": 12.5
+    },
+    {
+      "id": 4,
+      "nome": "Chapéu",
+      "marca": "QuickSilver",
+      "preco": 35.5
+    },
+    {
+      "id": 5,
+      "nome": "Relógio",
+      "marca": "Rolex",
+      "preco": 30000
+    },
+    {
+      "id": 6,
+      "nome": "Calça",
+      "marca": "Levis",
+      "preco": 150
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "gustavo@gmail.com",
+      "senha": "gustavo"
+    },
+    {
+      "id": 2,
+      "email": "fabio@gmail.com",
+      "senha": "fabio"
+    },
+    {
+      "email": "email@email",
+      "senha": "senha",
+      "id": 3
+    },
+    {
+      "email": "gmail@gmail.com",
+      "senha": "1234",
+      "id": 4
+    },
+    {
+      "email": "",
+      "senha": "",
+      "id": 5
+    },
+    {
+      "email": "teste@gmail.com",
+      "senha": "1234",
+      "id": 6
+    },
+    {
+      "email": "email@email",
+      "senha": "abcd",
+      "id": 7
+    },
+    {
+      "email": "gustavo@gmail.com",
+      "senha": "senha",
+      "id": 8
+    }
+  ]
+}
