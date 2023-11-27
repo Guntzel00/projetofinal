@@ -70,8 +70,13 @@ export default function Painel() {
 					<p className='button'>
 						<Link to={'/novoProduto'}>Cadastrar produto</Link>
 					</p>
+					<p className='button'>
+						<Link to={'/usuarios'}>Usuários</Link>
+					</p>
 				</div>
-				<Link to={'/'}>Logout</Link>
+				<Link id='logout' to={'/'}>
+					Logout
+				</Link>
 			</div>
 		</>
 	);

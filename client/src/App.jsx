@@ -6,7 +6,7 @@ function App() {
 	return (
 		<>
 			<div className='navegacao'>
-				<h2>Painel de Produtos</h2>
+				<h2>Projeto Final Prog Web</h2>
 				<Outlet />
 			</div>
 		</>

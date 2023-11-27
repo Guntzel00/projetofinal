@@ -35,13 +35,25 @@
       "nome": "Calça",
       "marca": "Levis",
       "preco": 150
+    },
+    {
+      "nome": "Meia",
+      "preco": "20",
+      "marca": "Adidas",
+      "id": 7
+    },
+    {
+      "nome": "",
+      "preco": "",
+      "marca": "",
+      "id": 8
     }
   ],
   "usuarios": [
     {
-      "id": 1,
       "email": "gustavo@gmail.com",
-      "senha": "gustavo"
+      "senha": "senhanova",
+      "id": 1
     },
     {
       "id": 2,
@@ -55,13 +67,8 @@
     },
     {
       "email": "gmail@gmail.com",
-      "senha": "1234",
+      "senha": "5321",
       "id": 4
-    },
-    {
-      "email": "",
-      "senha": "",
-      "id": 5
     },
     {
       "email": "teste@gmail.com",
@@ -69,13 +76,13 @@
       "id": 6
     },
     {
-      "email": "email@email",
+      "email": "conta@gmail.com",
       "senha": "abcd",
       "id": 7
     },
     {
-      "email": "gustavo@gmail.com",
-      "senha": "senha",
+      "email": "dfassdasd",
+      "senha": "dasdasdasda",
       "id": 8
     }
   ]
